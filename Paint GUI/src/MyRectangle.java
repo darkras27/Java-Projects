@@ -4,7 +4,7 @@ import java.awt.Graphics;
 /**
  * This class of Rectangle shape-extends MyBoundedShape
  * Will initialize the shape with/without arguments
- * @author AlexeyRaskin
+ * @author AlexeyRaskin ID306058611
  */
 
 public class MyRectangle extends MyBoundedShape {

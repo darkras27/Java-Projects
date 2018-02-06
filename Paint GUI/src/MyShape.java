@@ -5,7 +5,7 @@ import java.awt.Graphics;
  * classes such as: MyLine,MyOval and MyRect.
  * By that, the lower classes will inherit this class and receive the characteristics
  * of the Shape class.
- * @author AlexeyRaskin
+ * @author AlexeyRaskin ID306058611
  **/
  
 public abstract class MyShape 

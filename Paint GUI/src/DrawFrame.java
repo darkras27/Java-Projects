@@ -15,7 +15,7 @@ import javax.swing.JPanel;
 /**
  *This class draws the figure the user sees with all the GUI elements (JButton,JComboBox,JCheckBox,JLabel).
  * {@link javax.swing.JButton} , {@link javax.swing.JComboBox} , {@link javax.swing.JCheckBox}, {@link javax.swing.JLabel}.
- * @author AlexeyRaskin
+ * @author AlexeyRaskin ID306058611
  */
  
 public class DrawFrame extends JFrame {
