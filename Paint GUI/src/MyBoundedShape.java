@@ -3,8 +3,7 @@ import java.awt.Color;
 /**
  * This Class of MyBoundedShape extends MyShape.
  * it returns the sizes of Rectangle and Oval shapes.
- * @author AlexeyRaskin ID306058611
- * @author AlexeyPodberezskiy ID323367789
+ * @author AlexeyRaskin
  */
 
 public abstract class MyBoundedShape extends MyShape{
