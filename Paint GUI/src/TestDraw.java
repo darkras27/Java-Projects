@@ -2,7 +2,7 @@ import javax.swing.JFrame;
 
 /**
  * Test application to display a DrawPanel
- * @author AlexeyRaskin ID306058611
+ * @author AlexeyRaskin
  */
 public class TestDraw 
 {

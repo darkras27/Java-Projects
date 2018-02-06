@@ -4,13 +4,13 @@ import java.awt.Graphics;
 /**
  * This class of Line shape-extends MyBoundedShape
  * Will initialize the shape with or without arguments
- * @author AlexeyRaskin ID306058611
+ * @author AlexeyRaskin
  */
 
 public class MyOval extends MyBoundedShape {
 
 	/**
-	 * default constractor - initilize the coordinate by zero and color to black
+	 * default constructor - initialize the coordinate by zero and color to black
 	 */
 	public MyOval() {super();}
 	

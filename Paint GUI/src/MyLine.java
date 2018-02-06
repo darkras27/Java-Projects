@@ -3,8 +3,8 @@ import java.awt.Graphics;
 
 /**
  * This class of Line shape-extends MyShape
- * Will initialize the shape with or withput arguments
- * @author AlexeyRaskin ID306058611
+ * Will initialize the shape with or without arguments
+ * @author AlexeyRaskin 
  */
  
 public class MyLine extends MyShape{

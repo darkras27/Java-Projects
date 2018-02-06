@@ -11,7 +11,7 @@ import javax.swing.JPanel;
  * This class will take control on creating the shapes array including
  * using the relevant constructors and the draw method
  * This class will extends JPanel and using all the MyShape methods {@link MyShape}
- * @author AlexeyRaskin ID306058611
+ * @author AlexeyRaskin
  */
 
 public class DrawPanel extends JPanel 
